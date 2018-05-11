@@ -1,0 +1,20 @@
+{
+    "name": "vahidirn/laravel-filter-query",
+    "description": "A trait to add query filtering functions to Laravel models",
+    "require": {
+        "illuminate/support": "~5.1",
+        "php" : ">=5.4.0"
+    },
+    "authors": [
+        {
+            "name": "VahidIrn",
+            "email": "irnp@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "VahidIrn\\FilterQuery\\": "src"
+        }
+    },
+    "license": "MIT"
+}
